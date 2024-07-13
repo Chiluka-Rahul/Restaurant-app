@@ -1,0 +1,61 @@
+.app-container {
+  font-family: 'Roboto';
+}
+
+.hr-line {
+  background-color: gray;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count-badge {
+  background-color: orange;
+}
+
+.main-heading {
+  font-size: 25px;
+  padding-left: 15px;
+}
+
+.my-orders {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(110, 107, 107);
+  padding-right: 10px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-container {
+  display: flex;
+}
+
+.cart-icon {
+  font-size: 30px;
+  padding-top: 18px;
+  padding-right: 10px;
+}
+.list-items {
+  list-style-type: none;
+}
+
+.tab-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  max-width: 85%;
+}
+
+.badge {
+  background-color: orange;
+  color: white;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}

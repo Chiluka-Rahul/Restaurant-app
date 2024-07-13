@@ -1,0 +1,14 @@
+.tab-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.active-tab-btn {
+  text-decoration: underline;
+  color: rgb(245, 66, 96);
+}
